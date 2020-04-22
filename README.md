@@ -69,5 +69,5 @@ packer build packer.json
 
 ## Pre-requisites.
 
-All pre-requisites are inside the cookbook.
--
+- oh my zssh (command line)
+- packer
